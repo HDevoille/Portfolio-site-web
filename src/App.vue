@@ -12,27 +12,27 @@
     <div class="title">
       <h1>Hugo Devoille</h1>
       <div class="links">
-        <a href="https://www.linkedin.com/" target="_blank"><img class="logo" src="src\assets\linkedin-logo.png"></a>
-        <a href="https://github.com/" target="_blank"><img class="logo" src="src\assets\github-logo.png"></a>
+        <a href="https://www.linkedin.com/" target="_blank"><img class="logo" src="C:\Users\hugod\Portfolio\Portfolio-site-web\src\assets\linkedin-logo.png"></a>
+        <a href="https://github.com/" target="_blank"><img class="logo" src="C:\Users\hugod\Portfolio\Portfolio-site-web\src\assets\github-logo.png"></a>
       </div>
     </div>
     
     <div class="project-grid">
       <div class="project">
           <a href="project1.html">
-            <img src="src\assets\EEG.jpg" alt="Hybrid Brain Computer Interface for VR">
+            <img src="C:\Users\hugod\Portfolio\Portfolio-site-web\src\assets\EEG.jpg" alt="Hybrid Brain Computer Interface for VR">
             <h2>Hybrid Brain Computer Interface for VR</h2>
           </a>
       </div>
       <div class="project">
         <a href="project2.html">
-          <img src="src\assets\EMG game.png" alt="EMG controlled arcade game">
+          <img src="C:\Users\hugod\Portfolio\Portfolio-site-web\src\assets\EMG_game.png" alt="EMG controlled arcade game">
           <h2>EMG controlled arcade game</h2>
         </a>
       </div>
       <div class="project">
         <a href="project2.html">
-          <img src="src\assets\EMG game.png" alt="EMG controlled arcade game">
+          <img src="C:\Users\hugod\Portfolio\Portfolio-site-web\src\assets\EMG_game.png" alt="EMG controlled arcade game">
           <h2>EMG controlled arcade game</h2>
         </a>
       </div>
