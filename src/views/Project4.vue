@@ -16,6 +16,9 @@
             <h1>Muse 2 State Recognition Classifier</h1>
         </div>
 
+        <div class="project_desc">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque, placeat quisquam consequuntur, facilis explicabo non labore atque nemo consectetur aliquid harum quaerat provident adipisci saepe possimus omnis. Ullam voluptas itaque perspiciatis, consectetur nesciunt, iste similique minus quisquam id blanditiis veniam voluptate nam quaerat assumenda non fugit est repellat repellendus ea nisi, illo facilis. Cumque dolore eligendi culpa tempora incidunt doloremque atque dolores exercitationem inventore, provident eaque vitae. Aut, enim in aperiam ad dolorum necessitatibus nulla quis blanditiis labore non ipsam, excepturi esse illo natus? Error optio rerum non provident dolorem atque ipsa obcaecati. Alias reiciendis ducimus officiis mollitia consectetur? Maxime?</p>
+        </div>
 
     </body>
 </template>
@@ -45,4 +48,9 @@
     color: #fff;
     font-size: 36px;
   }
+
+  .project_desc p{
+    color: #fff;
+    font-size: 14px;
+}
 </style>
